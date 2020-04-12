@@ -1,4 +1,5 @@
 - bisa mengendarai motor kopling
 - bisa mengendarai mobil
 - punya penghasilan tambahan / passive income
-- paham pemrograman android 
+- paham reactive programming
+- paham git
