@@ -6,3 +6,4 @@
 - belajar bahasa pemrograman
  * javascript
  * kotlin
+ * go
