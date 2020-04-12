@@ -3,6 +3,9 @@
   * mobil mpv
   * mobil sedan
 - ada deh
-- balajar bahasa pemrograman
-  * python
-  * kotlin
+- belajar bahasa pemrograman
+ * php
+ * javascript
+ * mysql
+ * kotlin
+ * go
