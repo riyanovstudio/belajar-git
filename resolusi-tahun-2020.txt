@@ -3,3 +3,6 @@
   * mobil mpv
   * mobil sedan
 - ada deh
+- belajar bahasa pemrograman
+ * javascript
+ * kotlin
