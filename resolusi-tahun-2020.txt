@@ -4,6 +4,8 @@
   * mobil sedan
 - ada deh
 - belajar bahasa pemrograman
- * golang 
  * php
+ * javascript
+ * mysql
  * kotlin
+ * go
