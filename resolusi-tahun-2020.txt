@@ -2,3 +2,4 @@
 - bisa mengendarai mobil
 - punya penghasilan tambahan / passive income
 - paham reactive programming
+- paham git
