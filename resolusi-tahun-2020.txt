@@ -1,5 +1,5 @@
 - bisa mengendarai motor kopling
 - bisa mengendarai mobil
-  * mobil hatchback
+  * mobil mpv
   * mobil sedan
 - ada deh
