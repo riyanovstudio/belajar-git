@@ -6,6 +6,6 @@
 - belajar bahasa pemrograman
  * php
  * javascript
- * mysql
+ * c#
  * kotlin
  * go
