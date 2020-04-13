@@ -7,5 +7,5 @@
  * php
  * javascript
  * c#
- * none
- * go
+ * kotlin
+ * golang
